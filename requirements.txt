@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+tqdm
+ipywidgets
+seaborn
+matplotlib
+scipy
+streamlit
