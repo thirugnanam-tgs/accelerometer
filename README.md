@@ -7,6 +7,8 @@ Steps for execution
 
     1. clone this repository with - git clone https://github.com/thirugnanam-tgs/accelerometer.git
 
+    2. Navigate to the accelerometer folder.
+
     2. pip install -r requirements.txt
 
     3. Execute all cells in analysis.ipynb in research folder to create 4 models.
